@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 298dc9aa0a0574347842811de840d963
+  - enabled: 1
+    path: Assets/Scenes/MainGame.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Load_NewGame.unity
+    guid: 7f7203b2f34baa146b23e4466ce01026
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: 2be157aa75b16154dac52d2a5bedc0c6
+  - enabled: 1
+    path: Assets/Scenes/Ranking.unity
+    guid: 20e8050fcdd0142489915454b783b201
+  - enabled: 1
+    path: Assets/Scenes/LoadGame.unity
+    guid: 8c5849611a4767542b1aa02d9dfea806
+  - enabled: 1
+    path: Assets/Scenes/Map2.unity
+    guid: 3e6f8df3450e5104fb4a4a894d89a076
+  - enabled: 1
+    path: Assets/Scenes/WonGame.unity
+    guid: 0aacc099b169bbf45a05ad7a4b8c2764
+  - enabled: 1
+    path: Assets/Scenes/PoziomyTrudnosci.unity
+    guid: 92091e8fe1ee5d24fb1900fadc671138
+  - enabled: 1
+    path: Assets/Scenes/Postaci.unity
+    guid: d8a5ee2f7d9afa449851d56b8ee1f98b
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreen.unity
+    guid: 21d6e100d6b496e4d886dae67ad53fab
+  - enabled: 1
+    path: "Assets/Scenes/Pek\u0142o.unity"
+    guid: 044a413b425716046bc8a5b057ade15e
+  m_configObjects: {}
